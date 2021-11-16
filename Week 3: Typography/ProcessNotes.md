@@ -8,3 +8,6 @@ to do a creation of his page of 1s, and the "FROG" poem.
 
 Both were done in p5.js. Zach Lieberman was helpful in structuring
 the FOR loops in the page of 1s. 
+
+Page 6 of _EECCHHOOEESS_: http://eclipsearchive.org/projects/ECHOES/html/pictures/006.html
+Page 7: http://eclipsearchive.org/projects/ECHOES/html/pictures/007.html
